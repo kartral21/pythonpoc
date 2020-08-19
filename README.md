@@ -1,5 +1,10 @@
 # ATF Proof of concept
 
+## Prerequisites
+
+You will need to have a [modern version of `docker`](https://docs.docker.com/engine/release-notes/) 
+
+## Usage
 Build the image using the following command
 
 ```bash
