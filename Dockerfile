@@ -8,4 +8,4 @@ RUN pip install --no-cache-dir -r requirements.txt
 COPY . .
 
 #CMD [ "python3", "./email/atf_email_parsing.py" ]
-CMD [ "python3", "./json/atf_json_parsing.py" ]
+CMD [ "python3", "./ldap/atf_ldap.py" ]
